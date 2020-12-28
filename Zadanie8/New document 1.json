@@ -1,0 +1,133 @@
+{
+  "Quantity": 4,
+  "Organizations": [
+    {
+      "Short name": "ДФЗ",
+      "Name": "Дом-фабрика-забор",
+      "Foundation date": "1999-09-01",
+      "Address": "Москва, ул. Пушкина",
+      "Phone": "8-800-555-35-35",
+      "INN": "3664069397",
+      "OGRN": "1053600591197",
+      "Securities": [
+        {
+          "Id": "FSK EES",
+          "Currency": "RUR",
+          "Code": "1w2r3y",
+          "Expiration date": "2017-12-11"
+        },
+        {
+          "Id": "IESK",
+          "Currency": "RUR",
+          "Code": "1q2w3e",
+          "Expiration date": "2022-12-22"
+        },
+        {
+          "Id": "Lacuna Coil",
+          "Currency": "EUR",
+          "Code": "3e4r5t",
+          "Expiration date": "2021-06-17"
+        },
+        {
+          "Id": "MIW",
+          "Currency": "EUR",
+          "Code": "veryNice",
+          "Expiration date": "2019-11-18"
+        }
+      ]
+    },
+    {
+      "Short name": "ДЗШ",
+      "Name": "Дрова за шифер",
+      "Foundation date": "2012-12-11",
+      "Address": "Петергоф, ул. Птушкина",
+      "Phone": "8-123-45-35-35",
+      "INN": "3635069397",
+      "OGRN": "1057900591197",
+      "Securities": [
+        {
+          "Id": "SOAP",
+          "Currency": "USD",
+          "Code": "2e3t4u",
+          "Expiration date": "2027-12-11"
+        },
+        {
+          "Id": "McTavish",
+          "Currency": "USD",
+          "Code": "2w3e4r",
+          "Expiration date": "2012-08-22"
+        }
+      ]
+    },
+    {
+      "Short name": "ОУМАЙ",
+      "Name": "Утро 1 января",
+      "Foundation date": "2012-12-13",
+      "Address": "Анадырь, ул. Непомнящих",
+      "Phone": "8-999-45-35-35",
+      "INN": "3635057397",
+      "OGRN": "1057990591197",
+      "Securities": [
+        {
+          "Id": "Drink",
+          "Currency": "EUR",
+          "Code": "2e3t4u",
+          "Expiration date": "2026-06-06"
+        },
+        {
+          "Id": "Eat",
+          "Currency": "RUR",
+          "Code": "2w3e4r",
+          "Expiration date": "2026-11-23"
+        },
+        {
+          "Id": "Dance",
+          "Currency": "USD",
+          "Code": "йцукен1",
+          "Expiration date": "2032-12-22"
+        }
+      ]
+    },
+    {
+      "Short name": "КЗ ШРПТ в ГЩУ",
+      "Name": "Результат - бум",
+      "Foundation date": "1999-01-01",
+      "Address": "Антананариву, ул. Диэтиламида",
+      "Phone": "8-322-45-35-35",
+      "INN": "3635057311",
+      "OGRN": "1057990591122",
+      "Securities": [
+        {
+          "Id": "ОАПВ",
+          "Currency": "EUR",
+          "Code": "HESOYAM",
+          "Expiration date": "2027-10-11"
+        },
+        {
+          "Id": "УРОВ",
+          "Currency": "EUR",
+          "Code": "IDDQD",
+          "Expiration date": "2026-11-11"
+        },
+        {
+          "Id": "ЛАПНУ",
+          "Currency": "RUR",
+          "Code": "GODMODE",
+          "Expiration date": "2032-12-13"
+        },
+        {
+          "Id": "ЦАПНУ",
+          "Currency": "RUR",
+          "Code": "Ryba-mech",
+          "Expiration date": "2020-02-22"
+        },
+        {
+          "Id": "АЛАР",
+          "Currency": "RUR",
+          "Code": "notbad",
+          "Expiration date": "2014-07-14"
+        }
+      ]
+    }
+  ]
+}
